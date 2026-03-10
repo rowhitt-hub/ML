@@ -1,18 +1,13 @@
-Here is a **clean, professional GitHub README.md** suitable for a beginner–intermediate **Time Series Temperature Forecasting project**.
 
-You can copy this directly into `README.md`.
 
----
-
-# 🌍 Global Temperature Forecasting using Time Series Models
+Global Temperature Forecasting using Time Series Models
 
 This project analyzes historical global temperature data and builds forecasting models to predict future temperatures using classical **time series techniques**.
 
 The goal of the project is to explore how statistical forecasting models such as **SARIMA** and **Holt-Winters Exponential Smoothing** can be used to model long-term temperature trends.
 
----
-
-# 📊 Project Overview
+ 
+ Project Overview
 
 Climate data often exhibits:
 
@@ -265,4 +260,3 @@ Possible extensions:
 
 ---
 
-If you want, I can also give you a **much stronger "resume-level" README** (with better sections like *project motivation, results, graphs, and key insights*) that makes this look like a **serious data science portfolio project.**
